@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming roles.
 - 🌱 I’m currently learning more programming languages.
 - 💞️ I’m looking to collaborate with anybody in need of a programmer.
-- 📫 How to reach me: You can reach me through my GitHub: AlyssaBaker-hub.
+- 📫 How to reach me: You can reach me through my GitHub: A-Bak-tech.
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I code at least 2-3 hours a day
 
