@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 **Computer Science Student** graduating in **March 2027**<br>- 💼 **Freelance Full-Stack Developer** on [Contra](your-contra-profile)<br>- 🔍 **Actively seeking Software Developer Internships**<br>- 🌱 Currently learning and building with modern web technologies
+- 🎓 **Computer Science Student** graduating in **March 2027**<br>- 💼 **Freelance Full-Stack Developer** on [Contra](https://contra.com/alyssa_baker_m8nvpbjz?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=alyssa_baker_m8nvpbjz)<br>- 🔍 **Actively seeking Software Developer Internships**<br>- 🌱 Currently learning and building with modern web technologies
 
 
 ## 🌐 Socials:
