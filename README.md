@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 **Computer Science Student** graduating in **March 2027**<br>- 💼 **Freelance Full-Stack Developer** on [Upwork](https://www.upwork.com/freelancers/~016c4a4b9f9fe0c1d9?mp_source=share)<br>- 🔍 **Actively seeking Software Developer Internships**<br>- 🌱 Currently learning and building with modern web technologies
+- 💼 **Freelance Full-Stack Developer** on [Upwork](https://www.upwork.com/freelancers/~016c4a4b9f9fe0c1d9?mp_source=share)<br>- - 🌱 Currently learning and building with modern web technologies
 
 
 ## 🌐 Socials:
