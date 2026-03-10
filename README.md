@@ -1,24 +1,57 @@
-# 💫 About Me:
-- 💼 **Freelance Full-Stack Developer** on [Upwork](https://www.upwork.com/freelancers/~016c4a4b9f9fe0c1d9?mp_source=share)<br>- - 🌱 Currently learning and building with modern web technologies
+# Hi, I'm Alyssa 👋
 
+React Native Mobile App Developer
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aly_Bak28) 
-
-# 💻 Tech Stack:
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=A-Bak-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=A-Bak-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Bak-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=A-Bak-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=A-Bak-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build clean, scalable mobile applications for **iOS and Android** using React Native.  
+My focus is on delivering production-ready apps with smooth user experiences and maintainable architecture.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=A-Bak-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Build
+
+• Cross-platform mobile apps (React Native)  
+• Figma → pixel-perfect UI implementation  
+• Authentication systems (Firebase / Supabase)  
+• API integrations  
+• Real-time features (chat, notifications, feeds)  
+• Scalable mobile app architecture  
+
+---
+
+## 🛠 Tech Stack
+
+**Mobile**
+React Native  
+Expo  
+
+**Backend / Services**
+Firebase  
+Supabase  
+REST APIs  
+
+**Languages**
+TypeScript  
+JavaScript  
+
+---
+
+## 📱 Featured Projects
+
+Here are some examples of projects I work on.
+
+• Mobile app prototypes  
+• Real-time apps with Firebase  
+• UI-focused React Native apps  
+• API-driven mobile applications  
+
+---
+
+## 💼 Freelance Work
+
+I'm available for freelance mobile app development.
+
+Upwork:  
+https://www.upwork.com/
+
+GitHub:  
+https://github.com/A-Bak-tech
