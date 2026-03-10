@@ -51,7 +51,7 @@ Here are some examples of projects I work on.
 I'm available for freelance mobile app development.
 
 Upwork:  
-https://www.upwork.com/
+https://www.upwork.com/freelancers/~016c4a4b9f9fe0c1d9?mp_source=share
 
 GitHub:  
 https://github.com/A-Bak-tech
