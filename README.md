@@ -1,54 +1,58 @@
 # Hi, I'm Alyssa 👋
 
-React Native Mobile App Developer
+Software Developer
 
-I build clean, scalable mobile applications for **iOS and Android** using React Native.  
-My focus is on delivering production-ready apps with smooth user experiences and maintainable architecture.
+I build clean, scalable software with a focus on production-ready code, smooth user experiences, and maintainable architecture.
 
 ---
 
 ## 🚀 What I Build
 
-• Cross-platform mobile apps (React Native)  
-• Figma → pixel-perfect UI implementation  
-• Authentication systems (Firebase / Supabase)  
-• API integrations  
-• Real-time features (chat, notifications, feeds)  
-• Scalable mobile app architecture  
+- Full-stack web applications  
+- Backend services and REST APIs  
+- Authentication systems (Firebase / Supabase)  
+- Third-party API integrations  
+- Real-time features (chat, notifications, feeds)  
+- Database design and data-driven applications  
+- Scalable, maintainable software architecture  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Mobile**
-React Native  
-Expo  
+**Frontend**
+React  
+TypeScript  
+JavaScript  
 
 **Backend / Services**
+Node.js  
 Firebase  
 Supabase  
 REST APIs  
+SQL  
 
 **Languages**
 TypeScript  
 JavaScript  
+Python  
 
 ---
 
-## 📱 Featured Projects
+## 📂 Featured Projects
 
 Here are some examples of projects I work on.
 
-• Mobile app prototypes  
-• Real-time apps with Firebase  
-• UI-focused React Native apps  
-• API-driven mobile applications  
+- Full-stack web applications  
+- Real-time apps with Firebase  
+- API-driven applications  
+- Backend services and automation tools  
 
 ---
 
 ## 💼 Freelance Work
 
-I'm available for freelance mobile app development.
+I'm available for freelance software development.
 
 Upwork:  
 https://www.upwork.com/freelancers/~016c4a4b9f9fe0c1d9?mp_source=share
